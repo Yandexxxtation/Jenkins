@@ -1,1 +1,2 @@
-Hello
+# Pure python QR Code generator
+
